@@ -74,18 +74,13 @@ Technical Writer/Instructional Designer Role Questions
   - [ ] Can you describe a document or training module you have developed?
   - [ ] What tools do you use for creating technical documents or instructional materials?
   - [ ] How do you ensure clarity and accessibility in your writing or designs?
-  - [ ] Describe your process for gathering information for a new writing or design project.
-  - [ ] How do you incorporate feedback into your revisions?
-  - [ ] What challenges have you faced in technical writing or instructional design, and how did you overcome them?
 
 # PROJECT MANAGER
 Project Manager Role Questions
 
   - [ ] What interests you about project management?
   - [ ] Can you describe a project you have managed or been a part of? What was your role?
-  - [ ] What project management tools are you familiar with?
-  - [ ] How do you handle changes to project scope or unexpected challenges?
-  - [ ] What methods do you use to ensure project deadlines are met?
+  - [ ] What was the most challenging project that you have managed or been a part of? What was your roll?
   - [ ] How do you prioritize tasks and manage resources in a project?
   - [ ] Describe your experience with team collaboration. How do you facilitate effective communication among team members?
 
@@ -93,9 +88,6 @@ Project Manager Role Questions
 Support Specialist Role Questions
 
   - [ ] What interests you about technical support?
-  - [ ] Can you describe a situation where you resolved a challenging technical issue for a user?
-  - [ ] What tools or systems are you familiar with for managing support tickets?
-  - [ ] How do you prioritize and handle multiple support requests at the same time?
-  - [ ] What steps do you take to ensure customer satisfaction in your support interactions?
+  - [ ] Can you describe a situation where you resolved a challenging (or amusing) technical issue for a user?
   - [ ] How do you stay informed about updates and changes in the technology you support?
   - [ ] Can you explain how you handle situations where you do not immediately know the solution to a problem?
