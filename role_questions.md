@@ -1,3 +1,31 @@
+# Setup:
+
+Divide Into Teams: Randomly assign interns to mixed-role teams of about 5-6 members to ensure diverse interaction.
+
+Role Cards Distribution: Each team receives a set of role cards. Each card should have questions relevant to one of the roles represented in the cohort (Developer, UX Designer, etc.).
+
+Exercise Brief: Explain that each team must interview other interns to fill out their answer sheets with specific information related to each role.
+
+# Task:
+
+Interview Rounds: Each team sends out one or two members to find interns from specific roles and interview them using the questions on their role cards. The remaining team members can simultaneously host interns from other teams for interviews about their own roles.
+
+Time Management: Each interview round should be timed (about 5-7 minutes) to keep the pace engaging and energetic.
+
+# Targets
+
+Interview at least 5 of the following:
+
+# Questions: 
+
+Each interviewer has three questions that they will ask each person they interview. 
+
+ - [ ] What do you like to be called?
+ - [ ] How did you come to be at the University of Michigan?
+ - [ ] What internship 'role' did you pursue for this summer?
+
+Followed by 2 of the role based questions; 
+
 Interview at least 5 of the following:
 
 # DEVELOPER
