@@ -41,6 +41,7 @@ Each interviewer has three questions that they will ask each person they intervi
  - [ ] What do you like to be called?
  - [ ] How did you come to be at the University of Michigan?
  - [ ] What internship 'role' did you pursue for this summer?
+ - [ ] What is your catch phrase?
 
 Followed by 2 of the role based questions; 
 
