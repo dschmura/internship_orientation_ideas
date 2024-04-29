@@ -1,20 +1,38 @@
 # Setup:
 
-Divide Into Teams: Randomly assign interns to mixed-role teams of about 5-6 members to ensure diverse interaction.
+## TEAMS 
 
-Role Cards Distribution: Each team receives a set of role cards. Each card should have questions relevant to one of the roles represented in the cohort (Developer, UX Designer, etc.).
+The fellows will be divided into teams of two (and one team of three). Each team will then be randomly assigned interns to create teams of about 5-6 members. The teams should be mixed-role to ensure diverse interaction.
+
+##  Interview Role Cards Distribution: 
+
+Each team receives a set of interview cards. Each card has questions relevant to one of the roles represented in the cohort (Developer, UX Designer, etc.).
 
 Exercise Brief: Explain that each team must interview other interns to fill out their answer sheets with specific information related to each role.
 
+# Interviews
+
+Interviews are conducted in teams of two, with one person leading the interview, and the other recording the responses and paying attention to time. 
+
 # Task:
 
-Interview Rounds: Each team sends out one or two members to find interns from specific roles and interview them using the questions on their role cards. The remaining team members can simultaneously host interns from other teams for interviews about their own roles.
+Interview Rounds: 
 
-Time Management: Each interview round should be timed (about 5-7 minutes) to keep the pace engaging and energetic.
+Team 'training' Interviews
+
+The fellows will start by conducting interviews of members of their team. One fellow will interview an intern (from their team) and the other will record the responses. Once the first interview is complete, the fellows will switch roles and interview another intern from the team.
+
+The first two interns who are interviewed will become an interview team, and take turns interviewing the other members of the team. 
+
+Each team will send out two members to find interns that represent different roles and interview them using the questions on their role cards. The interviewers will take turns, alternatively conducting the interview or recording the responses. 
+
+The remaining team members can simultaneously host interns from other teams for interviews about their own roles. 
+
+Time Management: Each interview round should be about 5-7 minutes to keep the pace engaging and energetic.
 
 # Targets
 
-Interview at least 5 of the following:
+The goal of this exercise is to get a sample of the different roles.
 
 # Questions: 
 
@@ -26,7 +44,6 @@ Each interviewer has three questions that they will ask each person they intervi
 
 Followed by 2 of the role based questions; 
 
-Interview at least 5 of the following:
 
 # DEVELOPER
 Developer Role Questions
