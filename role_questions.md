@@ -8,27 +8,23 @@ The fellows will be divided into teams of two (and one team of three). Each team
 
 Each team receives a set of interview cards. Each card has questions relevant to one of the roles represented in the cohort (Developer, UX Designer, etc.).
 
-Exercise Brief: Explain that each team must interview other interns to fill out their answer sheets with specific information related to each role.
+Exercise Brief: Explain that each team must interview other interns to fill out their answer sheets with information related to each role.
 
 # Interviews
 
-Interviews are conducted in teams of two, with one person leading the interview, and the other recording the responses and paying attention to time. 
+Interviews are conducted in teams of two, with one person leading the interview, and the other recording the responses and paying attention to time. The interviewers will take turns, alternatively conducting the interview or recording the responses.  Each interview round should be about 5-7 minutes to keep the pace engaging and energetic.
 
 # Task:
 
 Interview Rounds: 
 
-Team 'training' Interviews
+The fellows will start by conducting interviews of members of their team. One fellow will interview an intern (from their team) and the other will record the responses while the rest of the team observes. Once the first interview is complete, the fellows will switch roles and interview another intern from the team.
 
-The fellows will start by conducting interviews of members of their team. One fellow will interview an intern (from their team) and the other will record the responses. Once the first interview is complete, the fellows will switch roles and interview another intern from the team.
+The first two interns who are interviewed will then take turns interviewing the other members of the team until everyone on the team has been been interviewed at least once, and everyone has had a chance to lead an interview.
 
-The first two interns who are interviewed will become an interview team, and take turns interviewing the other members of the team. 
-
-Each team will send out two members to find interns that represent different roles and interview them using the questions on their role cards. The interviewers will take turns, alternatively conducting the interview or recording the responses. 
+Each team will send out two members to find interns that represent additional roles and interview them using the questions on their role cards. 
 
 The remaining team members can simultaneously host interns from other teams for interviews about their own roles. 
-
-Time Management: Each interview round should be about 5-7 minutes to keep the pace engaging and energetic.
 
 # Targets
 
@@ -36,14 +32,14 @@ The goal of this exercise is to get a sample of the different roles.
 
 # Questions: 
 
-Each interviewer has three questions that they will ask each person they interview. 
+Each interviewer has several questions that they will ask each person they interview. 
 
  - [ ] What do you like to be called?
  - [ ] How did you come to be at the University of Michigan?
  - [ ] What internship 'role' did you pursue for this summer?
  - [ ] What is your catch phrase?
 
-Followed by 2 of the role based questions; 
+Followed by some role specific questions. These can be anything you think will get to the heart of what that role is. Here are some ideas (by role) to get you started;
 
 
 # DEVELOPER
