@@ -38,6 +38,8 @@ Each interviewer has several questions that they will ask each person they inter
  - [ ] How did you come to be at the University of Michigan?
  - [ ] What internship 'role' did you pursue for this summer?
  - [ ] What is your catch phrase?
+ - [ ] Can you think of a time when technology made you feel included or excluded? What happened and how did it make you feel?
+ - [ ] Share a tradition or celebration from your culture or community that you think others might not know about.
 
 Followed by some role specific questions. These can be anything you think will get to the heart of what that role is. Here are some ideas (by role) to get you started;
 
