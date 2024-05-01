@@ -4,11 +4,13 @@
 
 The fellows will be divided into teams of two (and one team of three). Each team will then be randomly assigned interns to create teams of about 5-6 members. The teams should be mixed-role to ensure diverse interaction.
 
-##  Interview Role Cards Distribution: 
+##  Interview Role Prompts Distribution: 
 
-Each team receives a set of interview cards. Each card has questions relevant to one of the roles represented in the cohort (Developer, UX Designer, etc.).
+Each team receives a set of interview prompts. Each card has questions relevant to one of the roles represented in the cohort (Developer, UX Designer, etc.). These are intended to be suggestions. Please feel free to ask whatever questions you think will help you.
 
 Exercise Brief: Explain that each team must interview other interns to fill out their answer sheets with information related to each role.
+
+[problem statement draft](./problem_statement.md)
 
 # Interviews
 
